@@ -45,7 +45,7 @@ pip install requirements.txt
 python main.py
 ```
 
-### Étape 1 : Changer les données de test ou l'image pour tester la prédiction si vous voulez
+### Étape 2 : Changer les données de test ou l'image pour tester la prédiction si vous voulez
 
 Si un emploi du temps valide est trouvé, il sera affiché dans la console.
 
