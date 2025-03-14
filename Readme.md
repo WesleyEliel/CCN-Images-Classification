@@ -4,7 +4,7 @@
 
 ## Description du Projet
 
-Ce projet un algorithme de CNN. J'éssaye d'utiliser le concept des réseaux de neurone convolutifs pour entrainer des
+Ce projet consiste en une implémentation d'un algorithme de CNN. J'éssaye d'utiliser le concept des réseaux de neurone convolutifs pour entrainer des
 données et faire des prédictions
 
 ## Installation
