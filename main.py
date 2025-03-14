@@ -51,7 +51,7 @@ model.add(tf.keras.layers.Flatten())
 # 1ère couche entièrement connectée
 model.add(tf.keras.layers.Dense(256, activation='relu'))
 
-# # 1ère couche entièrement connectée: Couche de Sortie avec une fonction d' activation sigmoid
+# 2ème couche entièrement connectée: Couche de Sortie avec une fonction d' activation sigmoid
 model.add(tf.keras.layers.Dense(1, activation='sigmoid'))
 
 # Compilation du modèle
